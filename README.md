@@ -9,12 +9,15 @@
 - <b>Restaurant Management App</b>
   - [NodeJS, React Native, CSS](https://github.com/JeanHABAN/restaurant-management-app)
   
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b> (Todos CRUD operations with auth)</b>
+  - [TypeScript, Nodejs, Express, Angular](https://github.com/JeanHABAN/BACKEND_TYPESCRIPT_PROJECT_ANGULAR/tree/main)
+  -  <b> (Color Guessing Game)</b>
+  - [TypeScript, Angular](https://github.com/JeanHABAN/Color-guessing-game)
+ 
+-  <b>(School Management Application)</b>
+   - [nodeJS, MongoDB, JavaScript, ReactJS, Boostrap](https://github.com/JeanHABAN/REACT-PROJECT)
+ 
+ 
 
 
 
