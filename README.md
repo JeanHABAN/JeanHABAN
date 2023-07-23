@@ -1,7 +1,8 @@
 <h1>Hi, I'm Jean Damour! <br/><a href="https://github.com/JeanHABAN">Full-Stack Web Developer</a>, <a href="https://www.linkedin.com/in/jean-damour-habanabashaka-5bb7b3124/">Linkedin</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
+- <b>Employee Management App</b>
+  - [Spring Boot, Maven, MYSQL, TypeScript,Angular, CSS](https://github.com/JeanHABAN/employee)
 - <b>Track and Split Expenses application</b>
   - [NodeJs, Express & Angular, CSS](https://github.com/JeanHABAN/angularProject)
 - <b>Online Shopping Web App)</b>
