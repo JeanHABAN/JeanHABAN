@@ -1,8 +1,7 @@
 <h1>Hi, I'm Jean Damour! <br/><a href="https://github.com/JeanHABAN">Full-Stack Web Developer</a>, <a href="https://www.linkedin.com/in/jean-damour-habanabashaka-5bb7b3124/">Linkedin</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- <b>Employee Management App</b>
-  - [Spring Boot, Maven, MYSQL, TypeScript,Angular, CSS](https://github.com/JeanHABAN/employee)
+
 - <b>Track and Split Expenses application</b>
   - [NodeJs, Express & Angular, CSS](https://github.com/JeanHABAN/angularProject)
 - <b>Online Shopping Web App)</b>
@@ -12,13 +11,14 @@
   
 - <b> (Todos CRUD operations with auth)</b>
   - [TypeScript, Nodejs, Express, Angular](https://github.com/JeanHABAN/BACKEND_TYPESCRIPT_PROJECT_ANGULAR/tree/main)
-  -  <b> (Color Guessing Game)</b>
-  - [TypeScript, Angular](https://github.com/JeanHABAN/Color-guessing-game)
+-  <b> (Color Guessing Game)</b>
+   - [TypeScript, Angular](https://github.com/JeanHABAN/Color-guessing-game)
  
 -  <b>(School Management Application)</b>
    - [nodeJS, MongoDB, JavaScript, ReactJS, Boostrap](https://github.com/JeanHABAN/REACT-PROJECT)
  
- 
+- <b>Employee Management App</b>
+   - [Spring Boot, Maven, MYSQL, TypeScript,Angular, CSS](https://github.com/JeanHABAN/employee)
 
 
 
