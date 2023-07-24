@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jean Damour! <br/><a href="https://github.com/JeanHABAN">Full-Stack Web Developer</a>, <a href="https://www.linkedin.com/in/jean-damour-habanabashaka-5bb7b3124/">Linkedin</a></h1>
+<h1>Hi, I'm Jean Damour! <br/><a href="https://github.com/JeanHABAN">Full-Stack Web Developer</a>, <a href="https://www.linkedin.com/in/jean-damour-habanabashaka-5bb7b3124/">Linkedin</a>, <a href="https://jeanhab.com/">Portfolio</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
